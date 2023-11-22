@@ -22,22 +22,20 @@
   
 ![Q4](q4)
 
-
   - a. Remove dir11 in one-step. What did you notice? And how did you overcome that?
   ![Q4_a](q4_a)
   
   - b. Then remove dir12 using rmdir –p command. State what happened to the hierarchy (Note: you are in your home directory).
   ![Q4_b](q4_b)
   
-  - c. The output of the command pwd was /home/user. Write the absolute
-and relative path for the file mycv
+  - c. The output of the command pwd was /home/user. Write the absolute and relative path for the file mycv
   ![Q4_c](q4_c)
   
 ### 5. Copy the /etc/passwd file to your home directory making its name is mypasswd.
 ![Q1](q5)
 
 ### 6. Rename this new file to be oldpasswd.
-![Q6](Q6)
+![Q6](q6)
 
 ### 7. You are in /usr/bin, list four ways to go to your home directory
 ![Q7](q7)
