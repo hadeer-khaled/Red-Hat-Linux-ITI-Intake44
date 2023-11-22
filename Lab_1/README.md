@@ -1,7 +1,13 @@
 # Lab 1 
 
 ### 2. What is the difference between _**cat**_ and _**more**_  command?
+-  Cat
+  -  Used for concatenating and displaying the entire contents of one or more files.
+  -  It prints the entire file to the terminal in one go, which is useful for small files.
 
+- More
+  -  used for displaying the contents of a file page by page. It allows you to navigate through the file one screen at a time.
+  -  You can use the spacebar to move forward, and the q key to exit
 
 ### 3. What is the difference between _**rm**_ and _**rmdir**_ using man?
 - rm remove file.
