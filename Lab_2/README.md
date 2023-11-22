@@ -1,4 +1,5 @@
-# Lab 2 <hr>
+# Lab 2 
+
 ### 1. Create a user account with the following attribute and username: islam and Fullname/comment: Islam Askar and Password: islam
 ![Q1](q1)
 
