@@ -37,8 +37,7 @@
   ![Q4_b](q4_b)
   
   - c. The output of the command pwd was _/home/user_. Write the absolute and relative path for the file mycv
-  - 
-  ![Q4_c](q4_c)
+      - 
   
 ### 5. Copy the _/etc/passwd_ file to your home directory making its name is mypasswd.
 ![Q1](q5)
