@@ -15,17 +15,17 @@
 
 - Change the permissions of oldpasswd file to give owner read and write permissions and for group write and execute and execute only for the others (using chmod in 2 different ways)
 	- Symbolic Method
-		![Q16](q16_a_1)
+	![Q16](q16_a_1)
 
 	- Numeric Method
-		![Q16](q16_a_2)
+	![Q16](q16_a_2)
 
 - Change your default permissions to be as above.
   
   	![Q16](q16_b)
 
 - What is the maximum permission a file can have, by default when it is just created? And what is that for directory.
-- 
+
 	- for files   ==> 6 == > rw- , rw- , rw-
 	- for folders ==> 9 ==> rwx , rwx , rwx
 
