@@ -17,12 +17,15 @@ college, experience,...
 ![q4](q4)
 
 ### 5. List all of the environment variables for the bash shell.
-	step 1: Write man bahsh in the terminla
-	step 2: serch for the envroiment varialble
-	![q5](q5_3)
+	
+ 	- step 1: Write man bahsh in the terminla
+	
+ 	- step 2: serch for the envroiment varialble
+	
+  ![q5](q5_3)
 	
 ### 6. What are the commands that list the value of a specific variable?
-echo $VARIABLE_NAME
+	- echo $VARIABLE_NAME
 
 ### 7. Display your current shell name.
 ![q7](q7)
