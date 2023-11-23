@@ -41,7 +41,9 @@ Notice the prompt ”>” what is that? and how can you change it from “>” t
 
 ### 11. Create a Bash shell alias named ls for the “ls –l” command
 	- Terminal level
-	![q11](q11_terminal)
+ 
+  ![q11](q11_terminal)
+ 
 	- User level
 	   - step 1: open ~/.bashrc file
 	   - step 2: write alias="ls -l"
