@@ -1,5 +1,5 @@
 ### Q13. Create a folder called myteam in your home directory and change its permissions to read only for the owner.
-![Q3](q3)
+![Q3](q13)
 
 ### 14. Log out and log in by another user.
 ![Q14](q14)
@@ -12,6 +12,8 @@
 - Change the permissions of oldpasswd file to give owner read and write permissions and for group write and execute and execute only for the others (using chmod in 2 different ways)
 	![Q16](q16_a_1)
 
+- Change your default permissions to be as above.
+  	![Q16](q16_b)
 - c:
 	- for files   ==> 6 == > rw- , rw- , rw-
 	- for folders ==> 9 ==> rwx , rwx , rwx
