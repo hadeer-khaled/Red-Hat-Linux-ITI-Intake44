@@ -1,8 +1,8 @@
-q_16_c:
-for files   ==> 6 == > rw- , rw- , rw-
-for folders ==> 9 ==> rwx , rwx , rwx
-    
---------------------------------------------------------------------------
+
+- c:
+	- for files   ==> 6 == > rw- , rw- , rw-
+	- for folders ==> 9 ==> rwx , rwx , rwx
+
 ### Q17. What are the minimum permission needed for:
 
 - Copy a directory (permission for source directory and permissions for target parent directory)
