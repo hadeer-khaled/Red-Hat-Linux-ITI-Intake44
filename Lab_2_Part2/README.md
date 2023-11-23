@@ -6,18 +6,21 @@
 
 ### 15. Try to access (by cd command) the folder (myteam)
 	- Using User " Hadeer "
-![q15](q15_hadeer)
+ 
+  ![q15](q15_hadeer)
   
 	- Using User " Islam "
-![Q15](q15_islam)
+ 
+  ![Q15](q15_islam)
 
 ### 16. Using the command Line
 
 - Change the permissions of oldpasswd file to give owner read and write permissions and for group write and execute and execute only for the others (using chmod in 2 different ways)
-	- Symbolic Method
+  
+- Symbolic Method
 	![Q16](q16_a_1)
 
-	- Numeric Method
+- Numeric Method
 	![Q16](q16_a_2)
 
 - Change your default permissions to be as above.
