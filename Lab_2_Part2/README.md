@@ -5,28 +5,32 @@
 ![Q14](q14)
 
 ### 15. Try to access (by cd command) the folder (myteam)
-	- Using User: Hadeer
-	 ![Q15](q15_hadeer)
+	- Using User " Hadeer"
+	 	![q15](q15_hadeer)
   
-	- Using User: Islam
-	 ![Q15](q15_islam)
+	- Using User " Islam "
+	 	![Q15](q15_islam)
 
 ### 16. Using the command Line
 
 - Change the permissions of oldpasswd file to give owner read and write permissions and for group write and execute and execute only for the others (using chmod in 2 different ways)
 	- Symbolic Method
 		![Q16](q16_a_1)
+
 	- Numeric Method
 		![Q16](q16_a_2)
 
 - Change your default permissions to be as above.
+  
   	![Q16](q16_b)
 
-- What is the maximum permission a file can have, by default when it is just created? And what is that for directory..
+- What is the maximum permission a file can have, by default when it is just created? And what is that for directory.
+- 
 	- for files   ==> 6 == > rw- , rw- , rw-
 	- for folders ==> 9 ==> rwx , rwx , rwx
 
  - Change your default permissions to be no permission to everyone then create a directory and a file to verify.
+   
 	- ![Q16](q16_d)
 
 ### Q17. What are the minimum permission needed for:
@@ -55,7 +59,10 @@
 
 - Modify a file content
 	- w
- 
+
+### Q18. Create a file with permission 444. Try to edit in it and to remove it? Note what happened.
+![Q18](q18)
+
 ### Q19. What is the difference between the “x” permission for a file and for a directory?
 	
 	- for files:
