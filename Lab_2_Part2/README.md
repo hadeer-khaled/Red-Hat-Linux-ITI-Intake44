@@ -66,15 +66,18 @@
 	- w
 
 ### Q18. Create a file with permission 444. Try to edit in it and to remove it? Note what happened.
+
+the file become Readonly so cannot wrtire on it.
+
 ![Q18](q18)
 
 ### Q19. What is the difference between the “x” permission for a file and for a directory?
 	
 	- for files:
-	 	   - You have theright to execute them, if they are programs(executable files).
-	 	   - They cannot take x by default.
+	 	- You have theright to execute them, if they are programs(executable files).
+	 	- They cannot take x by default.
 	- for directories:
-	   	 - Allows you to enter the directory (cd directory).
-	    	 - You can list its contents (cd -l) if you you have r access. 
+	   	- Allows you to enter the directory (cd directory).
+	    	- You can list its contents (cd -l) if you you have r access. 
 
 
