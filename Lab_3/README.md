@@ -7,6 +7,7 @@ college, experience,...
 	d. Step to line 5 (assuming that you are in line 1 and file is more than 5 lines).
 	e. Delete the line you are on and line 5.
 	f. How to step to the end of line and change to writing mode in one-step.
+
 3. List the available shells in your system.
 ![q3](q3)
 
@@ -35,7 +36,7 @@ Notice the prompt ”>” what is that? and how can you change it from “>” t
 
 11. Create a Bash shell alias named ls for the “ls –l” command
 	- Terminal level
-	![q7](q7)
+	![q11](q11_terminal)
 	- User level
 	   - step 1: open ~/.bashrc file
 	   - step 2: write alias="ls -l"
