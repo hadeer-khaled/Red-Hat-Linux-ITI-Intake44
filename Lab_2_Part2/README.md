@@ -5,11 +5,11 @@
 ![Q14](q14)
 
 ### 15. Try to access (by cd command) the folder (myteam)
-	- Using User " Hadeer"
-	 	![q15](q15_hadeer)
+	- Using User " Hadeer "
+![q15](q15_hadeer)
   
 	- Using User " Islam "
-	 	![Q15](q15_islam)
+![Q15](q15_islam)
 
 ### 16. Using the command Line
 
@@ -31,7 +31,7 @@
 
  - Change your default permissions to be no permission to everyone then create a directory and a file to verify.
    
-	- ![Q16](q16_d)
+	![Q16](q16_d)
 
 ### Q17. What are the minimum permission needed for:
 
