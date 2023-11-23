@@ -14,20 +14,20 @@ for folders ==> 9 ==> rwx , rwx , rwx
 	- for source file: r
 	- for target parent directory: w , x
 
- Delete a file
+- Delete a file
 	- for the file: ---
 	- for source parent directory: w , x
 	
- Change to a directory
+- Change to a directory
 	-  for target directory: x
 	
- List a directory content (ls command)
+- List a directory content (ls command)
 	- r 
 
- View a file content (more/cat command)
+- View a file content (more/cat command)
 	- r
 
- Modify a file content
+- Modify a file content
 	- w
  
 ### Q19. What is the difference between the “x” permission for a file and for a directory?
