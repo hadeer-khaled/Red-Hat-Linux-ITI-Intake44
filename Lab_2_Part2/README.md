@@ -4,14 +4,13 @@ for folders ==> 9 ==> rwx , rwx , rwx
     
 --------------------------------------------------------------------------
 ### Q17. What are the minimum permission needed for:
-- A) Copy a directory (permission for source directory and permissions for target parent directory)
+
+- Copy a directory (permission for source directory and permissions for target parent directory)
 
 	- for source directory: x
 	- for target parent directory: w , x
 
-- Copy a file (permission for source file and and permission for target parent
-directory)
-
+- Copy a file (permission for source file and and permission for target parent directory)
 	- for source file: r
 	- for target parent directory: w , x
 
