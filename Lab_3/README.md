@@ -20,7 +20,7 @@ college, experience,...
 
 ### 5. List all of the environment variables for the bash shell.
 	
-- step 1: Write " man bahsh " in the terminal.
+- step 1: Write _man bahsh_ in the terminal.
 
 - step 2: serch for the envroiment variables.
 	
@@ -77,7 +77,7 @@ college, experience,...
   ![q11](q11_terminal)
  
 - User level
-	- step 1: open ~/.bashrc file
-	- step 2: write alias="ls -l"
+	- step 1: open   _~/.bashrc_  file
+	- step 2: write  _alias="ls -l"_
 	
 
