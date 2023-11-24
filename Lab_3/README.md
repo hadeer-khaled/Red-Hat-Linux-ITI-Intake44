@@ -52,15 +52,23 @@ college, experience,...
 				- /etc/bashrc (for interactive non-login shells)
     
 			- Individual user configuration files:
-				- ~/.bash_profile, ~/.bash_login, or ~/.profile (Bash looks for these in the order listed and executes the first one found)
+				- ~/.bash_profile, ~/.bash_login, or ~/.profile 
+    				(Bash looks for these in the order listed and executes the first one found)
+	
 				- ~/.bashrc (for interactive non-login shells)
 
 ### 9. Edit in your profile to display date at login and change your prompt permanently.
 
 ### 10. Execute the following command :
-echo \ then press enter
-What is the purpose of \ ?
-Notice the prompt ”>” what is that? and how can you change it from “>” to “:”.
+	- echo \ then press enter, What is the purpose of \ ?
+ 		The backslash (\) will scape the newline character that I get when I press Enter.
+   		It is indication that the command is not yet complete.
+ 
+	- Notice the prompt ”>” what is that? 
+ 		It indicate that the shell is expecting more input to finish the command.
+ 
+ 	- how can you change it from “>” to “:”.
+  		export PS1=":"
 
 ### 11. Create a Bash shell alias named ls for the “ls –l” command
 	- Terminal level
