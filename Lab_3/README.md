@@ -78,6 +78,7 @@
 	- export PS1=":"
 
 ### 11. Create a Bash shell alias named ls for the “ls –l” command
+
 - Terminal level
  
   ![q11](q11_terminal)
