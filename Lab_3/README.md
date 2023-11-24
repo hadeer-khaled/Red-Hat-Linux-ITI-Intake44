@@ -60,15 +60,15 @@ college, experience,...
 ### 9. Edit in your profile to display date at login and change your prompt permanently.
 
 ### 10. Execute the following command :
-	- **echo \ then press enter, What is the purpose of \ ?**
- 		The backslash (\) will scape the newline character that I get when I press Enter.
-   		It is indication that the command is not yet complete.
- 
-	- Notice the prompt ”>” what is that? 
- 		It indicate that the shell is expecting more input to finish the command.
- 
- 	- how can you change it from “>” to “:”.
-  		export PS1=":"
+**- echo \ then press enter, What is the purpose of \ ?**
+     The backslash (\) will scape the newline character that I get when I press Enter.
+       It is indication that the command is not yet complete.
+
+**- Notice the prompt ”>” what is that?** 
+ 	It indicate that the shell is expecting more input to finish the command.
+
+**- how can you change it from “>” to “:”**
+  	export PS1=":"
 
 ### 11. Create a Bash shell alias named ls for the “ls –l” command
 	- Terminal level
