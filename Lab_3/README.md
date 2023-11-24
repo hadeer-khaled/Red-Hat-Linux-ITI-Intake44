@@ -33,29 +33,29 @@ college, experience,...
 ![q7](q7)
 
 ### 8. State the initialization files of: sh, ksh, bash.
-		1. sh (Bourne Shell):	
-		    - System-wide initialization file: /etc/profile
-      
-		    - User-specific initialization file: ~/.profile
-		
-		2. ksh (KornShell):
-		    - System-wide initialization file: /etc/profile
-      
-		    - User-specific initialization file: ~/.profile
-      
-		    - Additional user-specific initialization file for ksh: ~/.kshrc
-		
-		3. bash (Bourne Again Shell):
-			-  System-wide configuration files:
-				- /etc/profile
-    
-				- /etc/bashrc (for interactive non-login shells)
-    
-			- Individual user configuration files:
-				- ~/.bash_profile, ~/.bash_login, or ~/.profile 
-    				(Bash looks for these in the order listed and executes the first one found)
+1. sh (Bourne Shell):	
+    - System-wide initialization file: /etc/profile
+
+    - User-specific initialization file: ~/.profile
+
+2. ksh (KornShell):
+    - System-wide initialization file: /etc/profile
+
+    - User-specific initialization file: ~/.profile
+
+    - Additional user-specific initialization file for ksh: ~/.kshrc
+
+3. bash (Bourne Again Shell):
+	-  System-wide configuration files:
+		- /etc/profile
 	
-				- ~/.bashrc (for interactive non-login shells)
+		- /etc/bashrc (for interactive non-login shells)
+	
+	- Individual user configuration files:
+		- ~/.bash_profile, ~/.bash_login, or ~/.profile 
+		(Bash looks for these in the order listed and executes the first one found)
+	
+		- ~/.bashrc (for interactive non-login shells)
 
 ### 9. Edit in your profile to display date at login and change your prompt permanently.
 
