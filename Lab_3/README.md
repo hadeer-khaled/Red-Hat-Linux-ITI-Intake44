@@ -60,7 +60,7 @@ college, experience,...
 ### 9. Edit in your profile to display date at login and change your prompt permanently.
 
 ### 10. Execute the following command :
-	- echo \ then press enter, What is the purpose of \ ?
+	- **echo \ then press enter, What is the purpose of \ ?**
  		The backslash (\) will scape the newline character that I get when I press Enter.
    		It is indication that the command is not yet complete.
  
