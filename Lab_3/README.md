@@ -1,6 +1,6 @@
-### 1. Using vi write your CV in the file mycv. Your CV should include your name, age, school,
-college, experience,...
+### 1. Using vi write your CV in the file mycv. Your CV should include your name, age, school, college, experience,...
 
+![q1](q1)
 
 ### 2. Open mycv file using vi command then: Without using arrows state how to:
 -  Move the cursor down one line at time.
@@ -12,7 +12,7 @@ college, experience,...
 -  Step to line 5 (assuming that you are in line 1 and file is more than 5 lines).
     - Type `5G` and press `Enter`   
 -  Delete the line you are on and line 5.
-    - Type `dd`  
+    - Type `dd`, `:5d`  
 -  How to step to the end of line and change to writing mode in one-step.
     - Type `A`
 
@@ -86,4 +86,3 @@ college, experience,...
 	- step 1: open   _~/.bashrc_  file
 	- step 2: write  _alias="ls -l"_
 	
-
