@@ -46,12 +46,12 @@ college, experience,...
     - Additional user-specific initialization file for ksh: ~/.kshrc
 
 3. bash (Bourne Again Shell):
-	-  System-wide configuration files:
+    -  System-wide configuration files:
 		- /etc/profile
 	
 		- /etc/bashrc (for interactive non-login shells)
 	
-	- Individual user configuration files:
+    - Individual user configuration files:
 		- ~/.bash_profile, ~/.bash_login, or ~/.profile 
 		(Bash looks for these in the order listed and executes the first one found)
 	
