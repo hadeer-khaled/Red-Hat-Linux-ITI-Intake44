@@ -33,19 +33,19 @@ college, experience,...
 ![q7](q7)
 
 ### 8. State the initialization files of: sh, ksh, bash.
-		1.sh (Bourne Shell):	
+		1. sh (Bourne Shell):	
 		    - System-wide initialization file: /etc/profile
       
 		    - User-specific initialization file: ~/.profile
 		
-		2.ksh (KornShell):
+		2. ksh (KornShell):
 		    - System-wide initialization file: /etc/profile
       
 		    - User-specific initialization file: ~/.profile
       
 		    - Additional user-specific initialization file for ksh: ~/.kshrc
 		
-		3.bash (Bourne Again Shell):
+		3. bash (Bourne Again Shell):
 			-  System-wide configuration files:
 				- /etc/profile
     
