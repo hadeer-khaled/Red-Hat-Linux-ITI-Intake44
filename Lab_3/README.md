@@ -20,9 +20,9 @@ college, experience,...
 
 ### 5. List all of the environment variables for the bash shell.
 	
- 	- step 1: Write man bahsh in the terminla
-	
- 	- step 2: serch for the envroiment varialble
+- step 1: Write " man bahsh " in the terminal.
+
+- step 2: serch for the envroiment variables.
 	
   ![q5](q5_3)
 	
