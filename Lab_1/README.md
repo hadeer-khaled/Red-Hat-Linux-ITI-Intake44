@@ -12,7 +12,7 @@
 ### 3. What is the difference between _**rm**_ and _**rmdir**_ using man?
 - rm remove file.
 - rm -r removw folder empty files or not.
-- mkdir remove empty files only.
+- mkdir remove empty folder only.
 
 ### 4. Create the following hierarchy under your home directory:
            dir1                 docs
