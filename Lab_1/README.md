@@ -29,6 +29,8 @@
 ![Q4](q4)
 
   - a. Remove dir11 in one-step. What did you notice? And how did you overcome that?
+    - cannot delete in using ` rmdir ` because it has a file inside it.
+    - can delete it using `rm -r`. 
     
   ![Q4_a](q4_a)
   
