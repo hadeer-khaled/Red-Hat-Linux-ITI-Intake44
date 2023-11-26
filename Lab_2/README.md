@@ -13,10 +13,10 @@
 ![Q4](Q4)
 
 ### 5. Add islam user to the pgroup group as a supplementary group
-![Q1](Q1)
+![Q5](Q5)
 
 ### 6. Modify the password of islam's account to password
-![Q1](Q1)
+![Q6](Q6)
 
 ### 7. Modify islam's account so the password expires after 30 days
 ![Q7](Q7)
