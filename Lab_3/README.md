@@ -75,7 +75,7 @@
 	- It indicate that the shell is expecting more input to finish the command.
 
 - How can you change it from “>” to “:”
-	- export PS1=":"
+	- export PS2=":"
 
 ### 11. Create a Bash shell alias named ls for the “ls –l” command
 
